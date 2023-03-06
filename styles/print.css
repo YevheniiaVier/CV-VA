@@ -268,3 +268,10 @@ main {
 .achievements {
   color: #000000;
 }
+.interview {
+  display: flex;
+  flex-direction: column;
+}
+.inter {
+  margin-top: 40px;
+}
