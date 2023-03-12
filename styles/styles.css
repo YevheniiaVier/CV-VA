@@ -285,6 +285,7 @@ img {
 .interview {
   display: flex;
   flex-direction: column;
+  margin-bottom: 40px;
 }
 .inter {
   margin-top: 40px;
