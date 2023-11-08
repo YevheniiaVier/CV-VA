@@ -164,7 +164,7 @@ main {
   font-size: 18px;
   line-height: 1.5;
   color: #000000;
-  margin-bottom: 5px;
+  /* margin-bottom: 5px; */
 }
 .about_position {
   font-style: bold;
@@ -172,7 +172,7 @@ main {
   font-size: 30px;
   line-height: 1.2;
   color: #000000;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .header {
   position: absolute;
